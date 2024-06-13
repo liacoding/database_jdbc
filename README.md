@@ -57,4 +57,4 @@ Key Technologies
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This testing framework provides a solid foundation for automating UI tests with Cucumber BDD, TestNG, and Selenium. Its structured approach and reusable components ensure that you can easily scale and maintain your automated tests as your application grows.
+This project offers a robust framework for automated database testing using Cucumber, TestNG, JDBC, Java, and MySQL. It supports behavior-driven development practices, ensuring that database operations are thoroughly tested and validated. By following the principles and structure outlined in this framework, you can efficiently manage and automate your database testing efforts, ensuring that your database remains consistent and reliable.
